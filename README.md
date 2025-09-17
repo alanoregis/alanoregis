@@ -3,6 +3,7 @@
 **`Analista de Dados`**
 
 "My name is Alano, and I'm Data analysis student at Digital College and graduate in system analysis and development at Estacio, I'm interested in everything about Python and data science!.
+
 💻 I'm currently studying data analysis at digitalcollege.
 🎮 I love Final Fantasy Games.
 ☕ I love coffeer.
