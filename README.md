@@ -65,3 +65,8 @@
 ### 📊 Estatísticas
 
 ![Alano's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanoregis&show_icons=true&theme=radical)
+
+
+&nbsp;<div align="center">
+  [![Spotify](https://alanoregis.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/playlist/5X1aWE5EnlcZBzk53GcH52?si=737ac996998e4fa4)
+</div>
