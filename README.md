@@ -64,7 +64,4 @@
 
 ### 📊 Estatísticas
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=alanoregis&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-![](https://raw.githubusercontent.com/alanoregis/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/alanoregis/github-stats-transparent/output/generated/languages.svg)
+![Alano's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanoregis&show_icons=true&theme=radical)
