@@ -64,20 +64,7 @@
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=alanoregis&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+![Github Stats](https://github-readme-stats.vercel.app/api?username=alanoregis&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanoregis&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+![](https://raw.githubusercontent.com/alanoregis/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/alanoregis/github-stats-transparent/output/generated/languages.svg)
