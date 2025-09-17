@@ -3,6 +3,9 @@
 **`Analista de Dados`**
 
 "My name is Alano, and I'm Data analysis student at Digital College and graduate in system analysis and development at Estacio, I'm interested in everything about Python and data science!.
+💻 I'm currently studying data analysis at digitalcollege.
+🎮 I love Final Fantasy Games.
+☕ I love coffeer.
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -63,8 +66,6 @@
 <br/>
 
 ### 📊 Estatísticas
-
-![Alano's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanoregis&show_icons=true&theme=radical)
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alanoregis&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
