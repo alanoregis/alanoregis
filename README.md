@@ -29,11 +29,6 @@
 
 
 
-### 📊 Estatísticas
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alanoregis&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-
 
 &nbsp;<div align="center">
   [![Last.fm](https://novatorem.vercel.app/api/orchestrator?background_type=blur_dark&border_color=ffffff")](https://open.spotify.com/playlist/5X1aWE5EnlcZBzk53GcH52?si=62509f7e6908402a)
