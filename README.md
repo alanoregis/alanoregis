@@ -17,10 +17,9 @@
 
 ## 🛠️ Core Stack
 
-### **Data Engineering & Analytics**
-- **Warehousing & Modeling**: dbt, PostgreSQL
-- **Pipelines & Orchestration**: Airflow, ETL/ELT  
-- **Visualization**: Power Bi
+- **Warehousing & Modeling**: dbt, PostgreSQL, Python (pandas, SQLAlchemy, psycopg2)
+- **Pipelines & Orchestration**: Airflow, ETL/ELT, Python (DAGs, tasks, operators)
+- **Visualization**: Power Bi, Python (powerbi-client, matplotlib, seaborn, plotly)
 
 
 ---
