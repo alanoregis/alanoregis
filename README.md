@@ -13,63 +13,38 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanoregis/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alano.120.ar@gmail.com)
 
-### 🤖 Linguagens e Tecnologias
+---
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+## 🛠️ Core Stack
 
-<img 
-    align="left" 
-    alt="Postgressql" 
-    title="Postgressql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" 
-/>
-    
- <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" align="left"  alt="mysql" title="mysql" width="40" height="40" style="padding-right: 10px;" /> </a>
- 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+### **Data Engineering & Analytics**
+- **Warehousing & Modeling**: Snowflake, dbt, PostgreSQL, Redshift  
+- **Pipelines & Orchestration**: Airflow, Prefect, AWS Glue, ETL/ELT  
+- **Streaming & Processing**: Kafka, Flink, Spark, Databricks (when scale or latency requires it)  
+- **Cloud**: AWS (primary), GCP
+- **Visualization**: Tableau, Power BI, Amazon QuickSight  
 
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<br/>
-<br/>
+> I choose tools based on reliability, scale, and operational needs — not trends.
+
+
+---
+
+## 🎓 Certifications  
+
+- **AWS Certified Data Engineer – Associate**
+- **AWS Certified Machine Learning Engineer – Associate**  
+- **AWS Certified Machine Learning – Specialty**  
+- **Databricks Certified Data Engineer – Associate**  
+- **Databricks Certified Data Engineer – Professional**  
+
+---
+
+## 🚀 What I’m Focused On Now
+- Preparing for Big Tech **Data Engineer** roles  
+- Deepening expertise in **SQL, data modeling, and system design**  
+- Building **small, focused projects** that demonstrate production-ready data pipelines  
+- Practicing **failure handling, monitoring, and data quality patterns**
+
 
 ### 📊 Estatísticas
 
