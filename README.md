@@ -19,11 +19,11 @@
 
 ## Data Engineering & Analytics
 
-- **Warehousing & Modeling**: dbt, PostgreSQL, Python
-- **Pipelines & Orchestration**: Airflow, ETL/ELT, Python
-- **Visualization**: Power Bi, Python
-- **Version Control**: Git
-- **Containerization**: Docker
+- **Warehousing & Modeling**: dbt, PostgreSQL, Python (pandas, SQLAlchemy, psycopg2)
+- **Pipelines & Orchestration**: Airflow, ETL/ELT, Python (DAGs, tasks, operators)
+- **Visualization**: Power Bi, Python (matplotlib, seaborn, plotly)
+- **Version Control**: Git (GitHub/GitLab, branching strategies, CI/CD)
+- **Containerization**: Docker (Dockerfiles, docker-compose, container orchestration)
 
 ---
 
