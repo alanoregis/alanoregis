@@ -18,32 +18,14 @@
 ## 🛠️ Core Stack
 
 ### **Data Engineering & Analytics**
-- **Warehousing & Modeling**: Snowflake, dbt, PostgreSQL, Redshift  
-- **Pipelines & Orchestration**: Airflow, Prefect, AWS Glue, ETL/ELT  
-- **Streaming & Processing**: Kafka, Flink, Spark, Databricks (when scale or latency requires it)  
-- **Cloud**: AWS (primary), GCP
-- **Visualization**: Tableau, Power BI, Amazon QuickSight  
-
-> I choose tools based on reliability, scale, and operational needs — not trends.
+- **Warehousing & Modeling**: dbt, PostgreSQL
+- **Pipelines & Orchestration**: Airflow,ETL/ELT  
+- **Cloud**: AWS (Studing)
+- **Visualization**: Power Bi
 
 
 ---
 
-## 🎓 Certifications  
-
-- **AWS Certified Data Engineer – Associate**
-- **AWS Certified Machine Learning Engineer – Associate**  
-- **AWS Certified Machine Learning – Specialty**  
-- **Databricks Certified Data Engineer – Associate**  
-- **Databricks Certified Data Engineer – Professional**  
-
----
-
-## 🚀 What I’m Focused On Now
-- Preparing for Big Tech **Data Engineer** roles  
-- Deepening expertise in **SQL, data modeling, and system design**  
-- Building **small, focused projects** that demonstrate production-ready data pipelines  
-- Practicing **failure handling, monitoring, and data quality patterns**
 
 
 ### 📊 Estatísticas
