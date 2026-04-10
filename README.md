@@ -20,7 +20,6 @@
 ### **Data Engineering & Analytics**
 - **Warehousing & Modeling**: dbt, PostgreSQL
 - **Pipelines & Orchestration**: Airflow,ETL/ELT  
-- **Cloud**: AWS (Studing)
 - **Visualization**: Power Bi
 
 
