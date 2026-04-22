@@ -1,6 +1,6 @@
 # 🧑‍💻 Alano Regis
 
-**`Analista de Dados`**
+**`Engenheiro de Dados`** **`Analista de Dados`** 
 
 "My name is Alano, I'm pursuing a postgraduate degree in data engineering and I have a bachelor's degree in Systems Analysis and Development. I'm interested in everything related to Technology and Data Engineering!."
 
