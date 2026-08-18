@@ -6,7 +6,7 @@
 
 💻I am currently pursuing a postgraduate degree in Data Engineering..
 
-🎮 I love Final Fantasy Games.
+🎮 I love JRPGs Games.
 
 ☕ I love coffeer.
 
